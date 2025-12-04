@@ -25,3 +25,22 @@ Al final de todo, está la parte donde el cliente recibe la respuesta.
 <img width="706" height="804" alt="Captura desde 2025-12-04 09-51-53" src="https://github.com/user-attachments/assets/06727529-8887-4b18-afa2-3d08d862d3cc" />
 
 
+
+## Resultado:
+Primero, iniciamos el servidor y, después, el cliente
+
+<img width="486" height="261" alt="Captura desde 2025-12-04 10-46-07" src="https://github.com/user-attachments/assets/46d3c9aa-f88d-496f-900c-b0cded6b08ec" />
+<img width="486" height="261" alt="Captura desde 2025-12-04 10-46-20" src="https://github.com/user-attachments/assets/3051ce48-8bdc-46d4-bd4f-7cc5e94e889b" />
+
+Ahora, solo tenemos que escribir nuestra lista y ejecutarlo y veremos que nos devuelve la palabra más larga:
+
+<img width="589" height="253" alt="Captura desde 2025-12-04 10-48-44" src="https://github.com/user-attachments/assets/e6249923-59b6-45ce-90e3-c77c50cad2ae" />
+
+<img width="607" height="57" alt="Captura desde 2025-12-04 10-48-53" src="https://github.com/user-attachments/assets/f6026911-88c5-42ae-90ff-da0e1fcb00fb" />
+
+Y el servidor devolverá esto:
+
+<img width="418" height="74" alt="Captura desde 2025-12-04 10-49-07" src="https://github.com/user-attachments/assets/3d0d6b44-88d2-44b4-a915-3114a9c2bbaa" />
+
+
+
